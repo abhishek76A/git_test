@@ -1,0 +1,11 @@
+   2 history
+   3 git status
+   4 ls
+   5 pwd
+   6 git status
+   7 history
+   8 git clone
+   9 git fetch
+  10 git status
+  11 git add git_command
+  12 git st
